@@ -1,7 +1,8 @@
 {
-  "title": "तुम्हारी यादों में खोया हूँ 🌹",
-  "heading": "मेरा प्यार 😘",
-  "emojis": ["🌹", "💋", "🔥", "❤️‍🔥", "🥂"],
-  "lyrics": ["तुम्ही मेरी जिंदगी हो...", "हर पल तुम्हारी याद आती है...", "प्यार तुम्हारा ही सच्चा है 💕"],
-  "heartEmoji": "💖"
+  "showUpdate": false'
+  "title": "🔔 New Update Available!",
+  "message": "Please update the app to continue using it.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://t.me/ROCKY_BHAI7871",
+  "credit": "MR. NoOB"
 }
