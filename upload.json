@@ -1,6 +1,6 @@
 {
   "login_enabled": true,
-  "login_key": "ROCKY-12345",
-  "redirect_url": "https://google.com",
+  "login_key": "LINK-123",
+  "redirect_url": "https://link-bypass.edgeone.app/",
   "version": "1.0"
 }
